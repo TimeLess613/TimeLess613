@@ -1,4 +1,4 @@
 - A SecOps
 
 - Newbie Hacker  
-  <script src="https://tryhackme.com/badge/585269"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/TimeLess613.png" alt="TryHackMe">
